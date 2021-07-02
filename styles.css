@@ -1,0 +1,107 @@
+body {
+  background-color: hsl(233, 47%, 7%);
+  text-align: center;
+}
+
+.middle-container {
+  width: 1000px;
+  height: 412.96px;
+  margin: 100px auto 100px auto;
+  background-color: hsl(244, 38%, 16%);
+}
+
+img {
+  width: 500px;
+  float: right;
+  margin-left: 30px;
+  background: hsl(277, 64%, 61%);
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+  padding-top: 50px;
+  color: hsl(0, 0%, 100%);
+}
+
+p {
+  font-size: 17px;
+  text-align: left;
+  color: hsla(0, 0%, 100%, 0.6);
+  padding-top: 25px;
+  padding-left: 50px;
+}
+
+span {
+  color: hsl(277, 64%, 61%);
+}
+
+.qeuries {
+  text-align: left;
+
+}
+
+.companies span {
+  font-family: 'Acme', sans-serif;
+  color:  hsl(0, 0%, 100%);
+  text-align: left;
+  width: auto;
+  margin-top: 25px;
+  font-weight: 700;
+  font-size: 25px;
+  position: relative;
+  right: 155px;
+  top: 50px;
+}
+
+.companies p {
+  color: hsla(0, 0%, 100%, 0.6);
+  text-transform: uppercase;
+  margin-top: 30px;
+  font-size: 13px;
+  position: relative;
+  left: 2px;
+}
+.templates span {
+  font-family: 'Acme', sans-serif;
+  color:  hsl(0, 0%, 100%);
+  text-align: left;
+  width: auto;
+  margin-top: 25px;
+  font-weight: 700;
+  font-size: 25px;
+  position: relative;
+  right: 20px;
+  bottom: 62px;
+}
+
+.templates p {
+  color: hsla(0, 0%, 100%, 0.6);
+  text-transform: uppercase;
+  font-size: 13px;
+  position: relative;
+  bottom: 94px;
+  left: 140px;
+}
+
+.queries span {
+  font-family: 'Acme', sans-serif;
+  color:  hsl(0, 0%, 100%);
+  text-align: left;
+  width: auto;
+  margin-top: 25px;
+  font-weight: 700;
+  font-size: 25px;
+  position: relative;
+  right: 150px;
+  bottom: 156px;
+}
+
+.queries p {
+  color: hsla(0, 0%, 100%, 0.6);
+  text-transform: uppercase;
+  font-size: 13px;
+  position: relative;
+  bottom: 188px;
+  left: 273px;
+}
